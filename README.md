@@ -1,5 +1,5 @@
 # MLOps-Pipeline-LLM-Training-Inference
-### This repository contains a production-grade pipeline for fine-tuning and ### serving Large Language Models (LLMs) using Llama-3.1-8B. The architecture ### is designed for scalability, observability, and reliability, mirroring ### modern enterprise standards.
+### This repository contains a production-grade pipeline for fine-tuning and serving Large Language Models (LLMs) using Llama-3.1-8B. The architecture is designed for scalability, observability, ### and reliability, mirroring modern enterprise standards.
 ## Quick Start
 To deploy the entire stack locally using kind and docker, run:
 Bash
